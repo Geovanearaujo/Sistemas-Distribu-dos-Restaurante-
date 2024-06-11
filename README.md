@@ -1,4 +1,5 @@
 Projeto de gestão de restaurante
+
 O projeto é um sistema de gestão de restaurante que faz a interação entre cliente e servidor utilizando sockets e threads para otimizar as operações do estabelecimento. Através de uma arquitetura de comunicação baseada em sockets, viabilizando a realização de pedidos, consultas de menu em tempo real. A implementação de threads possibilita o processamento concorrente de múltiplas solicitações, garantindo uma resposta ágil e sem interrupções mesmo em períodos de alta demanda. Essa abordagem visa aprimorar a experiência do cliente e otimizar a eficiência operacional do restaurante, proporcionando uma gestão mais ágil e precisa.
 Breve explicação de cada arquivo do projeto
 Server.py
